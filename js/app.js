@@ -1,20 +1,20 @@
 const texts = [
     "I Love You",
-    "♥️ Mao Bông ♥️",
-    "Ti amo",
-    "Aishiteru",
-    "Saranghaeyo",
-    "Wǒ ài nǐ",
-    "Ya tebya lyublyu",
-    "Je t'aime",
+    "♥️ Lynh Phương ♥️",
+    "Anh Yêu Em",
+    "Anh Yêu Emm",
+    "Yeu ",
+    " Yêu Bé ",
+    "Công Chúa Của Anh ",
+    "❤️❤️",
 ];
 
 let images = [
-    "https://i.pinimg.com/736x/77/86/1a/77861aa910507e41754f68b5d60699b6.jpg",
-    "https://i.pinimg.com/736x/c3/84/9e/c3849e2eba19a1e8155b7464f9b89da8.jpg",
-    "https://i.pinimg.com/736x/5f/3c/71/5f3c71b061d9d56cb00e5fc1dd9f5969.jpg",
-    "https://i.pinimg.com/736x/94/59/66/9459664d0858ec81ba249d98fdb4ee3c.jpg",
-    "https://i.pinimg.com/736x/d9/09/c0/d909c0b86ea1a4e65495785db03ef636.jpg"
+    "https://img.upanh.tv/2025/05/31/IMG_5961.jpeg",
+    "https://img.upanh.tv/2025/05/31/IMG_5957.jpeg",
+    "https://img.upanh.tv/2025/05/31/IMG_5978.jpeg",
+    "https://img.upanh.tv/2025/05/31/IMG_5943.jpeg",
+    "https://img.upanh.tv/2025/05/31/IMG_9123.jpeg"
 ];
 
 const scene = document.getElementById("scene");
